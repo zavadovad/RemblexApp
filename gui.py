@@ -790,7 +790,7 @@ def tts(textColor, basicFont, inputFont, titleFont, subTitleFont, frameTitleFont
                 # Vše ok => generování
                 else:
                     try:
-                        # Soubor wav již se stejným názvem existuje - až funkční, přesunout dolů pod try
+                        # Soubor wav již se stejným názvem existuje
                         if wavOutName + ".wav" in listdir(wavOutFolder):
                             wavOutName = enumerateName(wavOutName, wavOutFolder)
 
