@@ -1,0 +1,6 @@
+PySimpleGUI==4.60.5
+pygame==2.4.0
+sounddevice==0.4.6
+pydub==0.25.1
+openai-whisper==20230314
+jiwer==3.0.1
