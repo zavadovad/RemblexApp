@@ -1,7 +1,7 @@
 ﻿# RemblexApp
 This is a project created because of my master's thesis. It uses Python library TTS and Whisper to enable simple demonstration of STT, TTS and STS tasks. The whole application is made with PySimpleGui. It is devided into three main windows – STT, TTS and STS – and two supplementary windows that are Main Menu and Dictaphone.
 
-## Instalation guide
+## Installation guide
 These steps of instalation were tested on Windows 10 in Visual Studio Code editor.
 
 1. Save the repo as a one folder to your computer.
